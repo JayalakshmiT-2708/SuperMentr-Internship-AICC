@@ -1,0 +1,9 @@
+student_id,name,dept,maths,science,english
+1,Arjun,CS,85.0,78.0,90.0
+2,Sanya,CS,92.0,,85.0
+3,Vikram,ECE,,85.0,70.0
+4,Priya,MECH,45.0,30.0,50.0
+5,Rohan,ECE,88.0,92.0,
+6,Anjali,CS,76.0,80.0,82.0
+7,Karan,MECH,90.0,88.0,95.0
+8,Meera,ECE,82.0,77.0,79.0
