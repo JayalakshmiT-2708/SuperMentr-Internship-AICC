@@ -1,4 +1,4 @@
-# 🚀 SuperMentr Internship - AICC
+# 🚀 SuprMentr Internship - AICC
 
 This repository contains all my **assignments and tasks** completed during the SuperMentr Internship program in AI/ML and Data Science.
 
